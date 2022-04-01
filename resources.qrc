@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>Images/arrow_down_normal.png</file>
+        <file>Images/arrow_up_normal.png</file>
+        <file>Images/button.png</file>
+        <file>Images/label.png</file>
+        <file>Images/lineedit.png</file>
+        <file>Images/meter.png</file>
+        <file>Images/progress.png</file>
+        <file>Images/slider.png</file>
+        <file>Images/title.png</file>
+        <file>Images/widget.png</file>
+        <file>Images/window.png</file>
+        <file>Images/hualian.png</file>
+        <file>Images/btn_close.png</file>
+        <file>Images/btn_min.png</file>
+        <file>Images/btncheckoff.png</file>
+        <file>Images/btncheckon.png</file>
+    </qresource>
+</RCC>
